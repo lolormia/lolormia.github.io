@@ -81,6 +81,7 @@
 
 
 
+<<<<<<< HEAD
 /* carousel */
 
 /* carousel */
@@ -143,6 +144,8 @@
 
 
 
+=======
+>>>>>>> fffb4dbb6bfe42fbc3605ebc1946b53c494797f4
 body {
   background-image: url('https://pin.it/1JOKGL3Sy'); /* Use the GIF URL */
   background-size: cover;
@@ -156,6 +159,10 @@ body {
 /* Default Background Color */
 body.body-bg {
   background-color:  #fbff00; /* Default color */
+<<<<<<< HEAD
+=======
+  background-image: url('assets/img/cloud1.gif');
+>>>>>>> fffb4dbb6bfe42fbc3605ebc1946b53c494797f4
 }
 
 /* Background Color Option 1 */
